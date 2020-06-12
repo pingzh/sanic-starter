@@ -1,0 +1,2 @@
+[run]
+omit = tests/*, logging_config.py, sanic_config.py
